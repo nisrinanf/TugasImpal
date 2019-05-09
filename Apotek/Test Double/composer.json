@@ -1,0 +1,15 @@
+{
+    "name": "impal/lydia",
+    "description": "proyek ini tentang tubes",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "lydia",
+            "email": "kanialydia@gmail.com"
+        }
+    ],
+    "require": {},
+    "require-dev": {
+        "mockery/mockery": "^1.2"
+    }
+}
